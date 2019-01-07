@@ -40,7 +40,7 @@
 
 ## APP端汇总界面操作<a name="zh-cn_topic_0127936422_section16744158919"></a>
 
-通过单击APP端汇总页左侧的![](figures/zh-cn_image_0129033304.png)解锁按钮，您可对汇总页面中的控件进行如下表操作。
+通过单击APP端汇总页左侧的![](figures/icon-解锁按钮4.png)解锁按钮，您可对汇总页面中的控件进行如下表操作。
 
 <a name="zh-cn_topic_0127936422_table16941192520152"></a>
 <table><thead align="left"><tr id="zh-cn_topic_0127936422_row6826364"><th class="cellrowborder" valign="top" width="15%" id="mcps1.1.4.1.1"><p id="zh-cn_topic_0127936422_p16064575"><a name="zh-cn_topic_0127936422_p16064575"></a><a name="zh-cn_topic_0127936422_p16064575"></a>操作对象</p>
@@ -55,8 +55,8 @@
 </td>
 <td class="cellrowborder" valign="top" width="15%" headers="mcps1.1.4.1.2 "><p id="zh-cn_topic_0127936422_p15203586"><a name="zh-cn_topic_0127936422_p15203586"></a><a name="zh-cn_topic_0127936422_p15203586"></a>锁定</p>
 </td>
-<td class="cellrowborder" rowspan="4" valign="top" width="70%" headers="mcps1.1.4.1.3 "><p id="zh-cn_topic_0127936422_p23530993"><a name="zh-cn_topic_0127936422_p23530993"></a><a name="zh-cn_topic_0127936422_p23530993"></a>通过单击APP端汇总页左侧的<a name="zh-cn_topic_0127936422_image12241115217359"></a><a name="zh-cn_topic_0127936422_image12241115217359"></a><span><img id="zh-cn_topic_0127936422_image12241115217359" src="figures/zh-cn_image_0129033307.png"></span>解锁按钮，可添加、删除、重置汇总页面的控件。</p>
-<p id="zh-cn_topic_0127936422_p10452353"><a name="zh-cn_topic_0127936422_p10452353"></a><a name="zh-cn_topic_0127936422_p10452353"></a><a name="zh-cn_topic_0127936422_image050623012318"></a><a name="zh-cn_topic_0127936422_image050623012318"></a><span><img id="zh-cn_topic_0127936422_image050623012318" src="figures/zh-cn_image_0129033310.png"></span></p>
+<td class="cellrowborder" rowspan="4" valign="top" width="70%" headers="mcps1.1.4.1.3 "><p id="zh-cn_topic_0127936422_p23530993"><a name="zh-cn_topic_0127936422_p23530993"></a><a name="zh-cn_topic_0127936422_p23530993"></a>通过单击APP端汇总页左侧的<a name="image34615113290"></a><a name="image34615113290"></a><span><img id="image34615113290" src="figures/icon-解锁按钮5.png"></span>解锁按钮，可添加、删除、重置汇总页面的控件。</p>
+<p id="p46768344299"><a name="p46768344299"></a><a name="p46768344299"></a><a name="image1567643432915"></a><a name="image1567643432915"></a><span><img id="image1567643432915" src="figures/汇总界面2.png"></span></p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0127936422_row41334227"><td class="cellrowborder" valign="top" headers="mcps1.1.4.1.1 "><p id="zh-cn_topic_0127936422_p59738106"><a name="zh-cn_topic_0127936422_p59738106"></a><a name="zh-cn_topic_0127936422_p59738106"></a>添加</p>
@@ -72,8 +72,8 @@
 </td>
 <td class="cellrowborder" valign="top" width="15%" headers="mcps1.1.4.1.2 "><p id="zh-cn_topic_0127936422_p33514934"><a name="zh-cn_topic_0127936422_p33514934"></a><a name="zh-cn_topic_0127936422_p33514934"></a>删除</p>
 </td>
-<td class="cellrowborder" rowspan="2" valign="top" width="70%" headers="mcps1.1.4.1.3 "><p id="zh-cn_topic_0127936422_p30355138"><a name="zh-cn_topic_0127936422_p30355138"></a><a name="zh-cn_topic_0127936422_p30355138"></a>通过单击APP端汇总页左侧的<a name="zh-cn_topic_0127936422_image7220105553514"></a><a name="zh-cn_topic_0127936422_image7220105553514"></a><span><img id="zh-cn_topic_0127936422_image7220105553514" src="figures/zh-cn_image_0129033313.png"></span>解锁按钮，在每个控件可进行对控件的“删除”，对控件视图“放大”的操作。</p>
-<p id="zh-cn_topic_0127936422_p17540145514296"><a name="zh-cn_topic_0127936422_p17540145514296"></a><a name="zh-cn_topic_0127936422_p17540145514296"></a><a name="zh-cn_topic_0127936422_image49371858193614"></a><a name="zh-cn_topic_0127936422_image49371858193614"></a><span><img id="zh-cn_topic_0127936422_image49371858193614" src="figures/zh-cn_image_0129033316.png"></span></p>
+<td class="cellrowborder" rowspan="2" valign="top" width="70%" headers="mcps1.1.4.1.3 "><p id="zh-cn_topic_0127936422_p30355138"><a name="zh-cn_topic_0127936422_p30355138"></a><a name="zh-cn_topic_0127936422_p30355138"></a>通过单击APP端汇总页左侧的<a name="image153715123294"></a><a name="image153715123294"></a><span><img id="image153715123294" src="figures/icon-解锁按钮6.png"></span>解锁按钮，在每个控件可进行对控件的“删除”，对控件视图“放大”的操作。</p>
+<p id="p2197194132915"><a name="p2197194132915"></a><a name="p2197194132915"></a><a name="image85471058122915"></a><a name="image85471058122915"></a><span><img id="image85471058122915" src="figures/用户体验（Apdex）2.png" width="133" height="119.000021"></span></p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0127936422_row4760790"><td class="cellrowborder" valign="top" headers="mcps1.1.4.1.1 "><p id="zh-cn_topic_0127936422_p50079677"><a name="zh-cn_topic_0127936422_p50079677"></a><a name="zh-cn_topic_0127936422_p50079677"></a>放大</p>
