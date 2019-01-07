@@ -8,7 +8,7 @@ Browser管理即创建浏览器应用。
 2.  在左侧导航栏中选择“Browser”，展开选项卡，单击“管理”。
 3.  创建浏览器应用。单击“添加”，按提示输入应用名称后点击“生成”，系统将生成专属您应用的埋点命令行。
 
-    ![](figures/zh-cn_image_0129033277.png)
+    ![](figures/创建浏览器应用.png)
 
 4.  单击“完成拷贝”，完成应用创建并自动拷贝命令行到剪贴板。
 
@@ -18,13 +18,13 @@ Browser管理即创建浏览器应用。
 
 ## 嵌入命令行<a name="zh-cn_topic_0127936427_section12998155554416"></a>
 
-1.  在应用创建完成后，埋点命令行就已存在于剪贴板中。若您不慎丢失命令行，可在列表右侧的动作列单击![](figures/zh-cn_image_0129033280.png)。
+1.  在应用创建完成后，埋点命令行就已存在于剪贴板中。若您不慎丢失命令行，可在列表右侧的动作列单击![](figures/icon-找回1.png)。
 
-    ![](figures/zh-cn_image_0129033283.png)
+    ![](figures/浏览器管理.png)
 
 2.  在“查看埋点命令行”弹框中单击“完成拷贝”重新获取埋点命令行。
 
-    ![](figures/zh-cn_image_0129033286.png)
+    ![](figures/查看埋点命令行1.png)
 
 3.  将命令行粘贴在您想要监控的页面的HTML文件中**<head\>**代码块的**第一行**，然后重启应用即可。
 
@@ -47,17 +47,17 @@ Browser管理即创建浏览器应用。
 </thead>
 <tbody><tr id="zh-cn_topic_0127936427_row1058316369591"><td class="cellrowborder" valign="top" width="20%" headers="mcps1.2.3.1.1 "><p id="zh-cn_topic_0127936427_p3583036195916"><a name="zh-cn_topic_0127936427_p3583036195916"></a><a name="zh-cn_topic_0127936427_p3583036195916"></a>全选或者取消全选</p>
 </td>
-<td class="cellrowborder" valign="top" width="80%" headers="mcps1.2.3.1.2 "><p id="zh-cn_topic_0127936427_p258317365591"><a name="zh-cn_topic_0127936427_p258317365591"></a><a name="zh-cn_topic_0127936427_p258317365591"></a>可通过<a name="zh-cn_topic_0127936427_image536513147519"></a><a name="zh-cn_topic_0127936427_image536513147519"></a><span><img id="zh-cn_topic_0127936427_image536513147519" src="figures/zh-cn_image_0129033289.png"></span>全选浏览器应用管理表中行，通过<a name="zh-cn_topic_0127936427_image1251516262073"></a><a name="zh-cn_topic_0127936427_image1251516262073"></a><span><img id="zh-cn_topic_0127936427_image1251516262073" src="figures/zh-cn_image_0129033292.png" width="20.9475" height="20.045627"></span>可取消全选。</p>
+<td class="cellrowborder" valign="top" width="80%" headers="mcps1.2.3.1.2 "><p id="zh-cn_topic_0127936427_p258317365591"><a name="zh-cn_topic_0127936427_p258317365591"></a><a name="zh-cn_topic_0127936427_p258317365591"></a>可通过<a name="image758852617387"></a><a name="image758852617387"></a><span><img id="image758852617387" src="figures/icon--1.png"></span>全选浏览器应用管理表中行，通过<a name="image1972984220389"></a><a name="image1972984220389"></a><span><img id="image1972984220389" src="figures/icon-取消全选1.png"></span>可取消全选。</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0127936427_row019992094812"><td class="cellrowborder" valign="top" width="20%" headers="mcps1.2.3.1.1 "><p id="zh-cn_topic_0127936427_p205831436115916"><a name="zh-cn_topic_0127936427_p205831436115916"></a><a name="zh-cn_topic_0127936427_p205831436115916"></a>跳转到拓扑界面</p>
 </td>
-<td class="cellrowborder" valign="top" width="80%" headers="mcps1.2.3.1.2 "><p id="zh-cn_topic_0127936427_p1167075833016"><a name="zh-cn_topic_0127936427_p1167075833016"></a><a name="zh-cn_topic_0127936427_p1167075833016"></a>单击列表右侧的动作列单击<a name="zh-cn_topic_0127936427_image194232024181112"></a><a name="zh-cn_topic_0127936427_image194232024181112"></a><span><img id="zh-cn_topic_0127936427_image194232024181112" src="figures/zh-cn_image_0129033295.png"></span>按钮，可跳转到Browser拓扑界面详细查看调用过程。</p>
+<td class="cellrowborder" valign="top" width="80%" headers="mcps1.2.3.1.2 "><p id="zh-cn_topic_0127936427_p1167075833016"><a name="zh-cn_topic_0127936427_p1167075833016"></a><a name="zh-cn_topic_0127936427_p1167075833016"></a>单击列表右侧的动作列单击<a name="image921549103915"></a><a name="image921549103915"></a><span><img id="image921549103915" src="figures/icon-跳转到拓扑界面.png"></span>按钮，可跳转到Browser拓扑界面详细查看调用过程。</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0127936427_row185831236125917"><td class="cellrowborder" valign="top" width="20%" headers="mcps1.2.3.1.1 "><p id="zh-cn_topic_0127936427_p1358333615919"><a name="zh-cn_topic_0127936427_p1358333615919"></a><a name="zh-cn_topic_0127936427_p1358333615919"></a>跳转到浏览器汇总界面</p>
 </td>
-<td class="cellrowborder" valign="top" width="80%" headers="mcps1.2.3.1.2 "><p id="zh-cn_topic_0127936427_p2317132418122"><a name="zh-cn_topic_0127936427_p2317132418122"></a><a name="zh-cn_topic_0127936427_p2317132418122"></a>单击列表右侧的动作列单击<a name="zh-cn_topic_0127936427_image1762782117139"></a><a name="zh-cn_topic_0127936427_image1762782117139"></a><span><img id="zh-cn_topic_0127936427_image1762782117139" src="figures/zh-cn_image_0129033298.png"></span>按钮，可跳转到浏览器汇总界面，查看用户体验详情。</p>
+<td class="cellrowborder" valign="top" width="80%" headers="mcps1.2.3.1.2 "><p id="zh-cn_topic_0127936427_p2317132418122"><a name="zh-cn_topic_0127936427_p2317132418122"></a><a name="zh-cn_topic_0127936427_p2317132418122"></a>单击列表右侧的动作列单击<a name="image14142191124012"></a><a name="image14142191124012"></a><span><img id="image14142191124012" src="figures/icon-跳转到浏览器汇总界面.png"></span>按钮，可跳转到浏览器汇总界面，查看用户体验详情。</p>
 </td>
 </tr>
 </tbody>

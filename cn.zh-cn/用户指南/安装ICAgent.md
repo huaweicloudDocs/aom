@@ -107,10 +107,10 @@ ICAgent有两种安装方式，您可以按照您的场景进行选择。您需�
 
     2.  <a name="zh-cn_topic_0089684077_zh-cn_topic_0089582074_zh-cn_topic_0089684077_zh-cn_topic_0089582074_li1462214222118"></a>单击“复制命令”。
 
-        ![](figures/zh-cn_image_0127219495.png)
+        ![](figures/安装ICAgent.png)
 
 
-6.  使用PuTTY等远程登录工具，以root用户登录待安装ICAgent的服务器，执行[5.b](#zh-cn_topic_0089684077_zh-cn_topic_0089582074_zh-cn_topic_0089684077_zh-cn_topic_0089582074_li1462214222118)复制到的安装命令进行安装。
+6.  使用PuTTY等远程登录工具，以root用户登录待安装ICAgent的服务器，执行[步骤5.b](#zh-cn_topic_0089684077_zh-cn_topic_0089582074_zh-cn_topic_0089684077_zh-cn_topic_0089582074_li1462214222118)复制到的安装命令进行安装。
 
     >![](public_sys-resources/icon-note.gif) **说明：**   
     >-   当显示“ICAgent install success”时，表示安装成功，ICAgent已安装在了/opt/oss/servicemgr/目录。安装成功后，在应用运维管理左侧导航栏中选择“采集器部署 \> Agent管理”，查看该服务器ICAgent状态。  

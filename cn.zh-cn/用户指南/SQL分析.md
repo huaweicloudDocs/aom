@@ -6,7 +6,7 @@ APM支持Cassandra、Memcached、MongoDB、MySQL、Oracle、PostgreSQL、Redis�
 
 ## SQL操作界面说明<a name="zh-cn_topic_0106194748_section15655201092217"></a>
 
-**图 1**  SQL界面图示<a name="zh-cn_topic_0106194748_fig143631445306"></a>  
+**图 1**  SQL界面图示<a name="fig6562172719215"></a>  
 ![](figures/SQL界面图示.png "SQL界面图示")
 
 ## 异常SQL语句分析<a name="zh-cn_topic_0106194748_section8462182815270"></a>
