@@ -1,5 +1,10 @@
 # Token认证<a name="ZH-CN_TOPIC_0096010437"></a>
 
+调用接口有如下两种认证方式，您可以选择其中一种进行认证鉴权。本章节介绍Token认证方式。
+
+-   **Token认证**：通过Token认证调用请求。
+-   AK/SK认证：通过AK（Access Key ID）/SK（Secret Access Key）加密调用请求。
+
 ## 应用场景<a name="zh-cn_topic_0095238317_zh-cn_topic_0024478020_section5608799912249"></a>
 
 当您使用Token认证方式完成认证鉴权时，需要获取用户Token并在调用接口时增加“X-Auth-Token”到业务接口请求消息头中。
