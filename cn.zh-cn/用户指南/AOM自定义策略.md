@@ -1,4 +1,4 @@
-# 创建AOM自定义策略<a name="aom_02_0091"></a>
+# AOM自定义策略<a name="aom_02_0091"></a>
 
 如果系统预置的AOM权限不能满足您的授权要求，您可以创建自定义策略。自定义策略中可以添加的授权项（Action），请参考[策略和授权项说明](https://support.huaweicloud.com/api-aom/aom_04_0022.html)。
 
